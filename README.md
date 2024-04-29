@@ -53,6 +53,6 @@ https://en.wikisource.org/wiki/Wikisource:Copyright_policy
 
 ## CONTACT INFORMATION ##
 
-For more information, please contact: francois (point) yvon [at] limsi (point) fr
+For more information, please contact: francois (point) yvon [at] sorbonne (tiret) universite (point) fr
 
 
