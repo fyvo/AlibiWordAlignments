@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+from unidecode import unidecode
 
 alignment_xml_path = 'dat\ChatBotte_MasterCat.ali.xml'
 tree = ET.parse(alignment_xml_path)
@@ -34,9 +35,8 @@ path_fr = "scripts/sents_ChatBotte_fr.txt"
 def write_eng_fr_to_files(sentences_tuple, path_eng_file, path_fr_file):
     with open(path_eng_file, 'w') as eng_file, open(path_fr_file, 'w') as fr_file:
         for i, sent_pair in enumerate(sentences_tuple):
-            fr_file.write(f'{i}    {sent_pair[0]}')
-            print(f'{i} {sent_pair[1]}')
-            eng_file.write(f'{i}    {sent_pair[1]}')
+            fr_file.write(unidecode(f'{i}\t{sent_pair[0]}\n'))
+            eng_file.write(f'{i}\t{sent_pair[1]}\n')
 
 
 write_eng_fr_to_files(sents, path_eng, path_fr)
