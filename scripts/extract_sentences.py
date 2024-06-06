@@ -37,9 +37,9 @@ if __name__ == "__main__":
     path_eng = "scripts/sents_ChatBotte_eng.txt"
     path_fr = "scripts/sents_ChatBotte_fr.txt"
 
+    path_fr = input("path to file where you want to save the fr sentences: ")
     path_eng = input(
         "path to file where you want to save the eng sentences: ")
-    path_fr = input("path to file where you want to save the fr sentences: ")
     # path_eng = sys.argv[2]
     # path_fr = sys.argv[3]
 
