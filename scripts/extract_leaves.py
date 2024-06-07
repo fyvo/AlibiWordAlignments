@@ -10,6 +10,8 @@ def extract_leaves_strings_only(soup):
     for linkGroup in linkGroups:
         leaves = []
         links = linkGroup.find_all('link')
+        if not links:   # skipping the empty linkGroups
+            continue
         list_parent_ids = [link['parentID'] for link in links]
         for link in links:
             if link['id'] not in list_parent_ids:
@@ -28,6 +30,8 @@ def extract_leaves_with_span_info(soup, separate_by_sentence=True):
     for linkGroup in linkGroups:
         sentence_leaves = dict()
         links = linkGroup.find_all('link')
+        if not links:   # skipping the empty linkGroups
+            continue
         list_parent_ids = [link['parentID'] for link in links]
         for link in links:
             if link['id'] not in list_parent_ids:
@@ -71,7 +75,7 @@ def convert_to_pharaoh(dict_all_spans_by_sentence, alignment_filepath):
 
 
 if __name__ == "__main__":
-    alignment_xml_path = 'dat/ChatBotte_MasterCat.ali.xml'
+    alignment_xml_path = 'dat/Laderniereclasse_Thelastlesson.ali.xml'
     alignment_xml_path = input("path to the xml alignments file: ")
 
     with open(alignment_xml_path, 'r') as filehandle:
@@ -81,7 +85,7 @@ if __name__ == "__main__":
         soup, separate_by_sentence=True)
     all_leaves_strings = extract_leaves_strings_only(soup)
 
-    alignment_filepath = 'chat_alignments.txt'
+    alignment_filepath = 'classe_tests.txt'
     alignment_filepath = input(
         "path to file where you want to save the w2w leaf alignments: ")
     convert_to_pharaoh(dict_all_spans_by_sentence, alignment_filepath)
