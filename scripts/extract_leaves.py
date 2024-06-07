@@ -47,13 +47,13 @@ def extract_leaves_with_span_info(soup, separate_by_sentence=True):
     return all_leaves
 
 
-def convert_to_pharaoh(dict_all_spans_by_sentence, alignment_filepath):
+def convert_to_pharaoh(dict_all_leaves_by_sentence, alignment_filepath):
     # regex matching (one or more) digits preceded by underscore, separated by a dash
     pattern = r"_(\d+-\d+)"
-    for i, sentence_spans in enumerate(dict_all_spans_by_sentence):
+    for i, sentence_leaves in enumerate(dict_all_leaves_by_sentence):
         with open(alignment_filepath, 'a+') as file:
             file.write(f'{i}\t')
-            for span_id in sentence_spans.keys():
+            for span_id in sentence_leaves.keys():
                 fr_span, eng_span = re.findall(pattern, span_id)
                 fr_begin, fr_end = fr_span.split('-')
                 eng_begin, eng_end = eng_span.split('-')
@@ -81,14 +81,14 @@ if __name__ == "__main__":
     with open(alignment_xml_path, 'r') as filehandle:
         soup = BeautifulSoup(filehandle, 'xml')
 
-    dict_all_spans_by_sentence, dict_all_spans = extract_leaves_with_span_info(
+    dict_all_leaves_by_sentence, dict_all_leaves = extract_leaves_with_span_info(
         soup, separate_by_sentence=True)
     all_leaves_strings = extract_leaves_strings_only(soup)
 
     alignment_filepath = 'classe_tests.txt'
     alignment_filepath = input(
         "path to file where you want to save the w2w leaf alignments: ")
-    convert_to_pharaoh(dict_all_spans_by_sentence, alignment_filepath)
+    convert_to_pharaoh(dict_all_leaves_by_sentence, alignment_filepath)
 
 
 # def build_indices(path_eng_sents, path_fr_sents):
