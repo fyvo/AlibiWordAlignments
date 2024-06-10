@@ -1,0 +1,96 @@
+Auberge:
+number of sentences in data_processed\LAuberge_sents.txt: 203
+number of words: 5674
+number of sentences in data_processed\TheInn_sents.txt: 203
+number of words: 5862
+Ratio of nb of French/nb of English words: 0.9679
+number of all spans: 9144
+number of leaf spans: 4368
+nb of w2w alignments created: 3389 sure, 6102 potential
+Max depth of an alignment tree: 12
+Mean number of words in all fr spans: 3.994
+Mean number of words in all eng spans: 4.160
+Mean number of words in fr leaf spans:  1.222
+Mean number of words in eng leaf spans:  1.243
+Mean number of characters in all fr spans: 14.657
+Mean number of characters in all eng spans: 19.383
+Mean number of characters in fr leaf spans:  4.907
+Mean number of characters in eng leaf spans:  5.115
+
+Barbe:
+number of sentences in data_processed\LaBarbeBleue_sents.txt: 67
+number of words: 2145
+number of sentences in data_processed\BlueBeard_sents.txt: 67
+number of words: 2234
+Ratio of nb of French/nb of English words: 0.9602
+number of all spans: 3311
+number of leaf spans: 1522
+nb of w2w alignments created: 1151 sure, 1913 potential
+Max depth of an alignment tree: 11
+Mean number of words in all fr spans: 4.205
+Mean number of words in all eng spans: 4.256
+Mean number of words in fr leaf spans:  1.287
+Mean number of words in eng leaf spans:  1.258
+Mean number of characters in all fr spans: 17.545
+Mean number of characters in all eng spans: 17.374
+Mean number of characters in fr leaf spans:  4.847
+Mean number of characters in eng leaf spans:  4.954
+
+Chat:
+number of sentences in data_processed/ChatBotte_sents.txt: 51
+number of words: 1861
+number of sentences in data_processed/MasterCat_sents.txt: 51
+number of words: 2036
+Ratio of nb of French/nb of English words: 0.9140
+number of all spans: 3091
+number of leaf spans: 1453
+nb of w2w alignments created: 1173 sure, 1416 potential
+Max depth of an alignment tree: 10
+Mean number of words in all fr spans: 3.952
+Mean number of words in all eng spans: 4.217
+Mean number of words in fr leaf spans:  1.198
+Mean number of words in eng leaf spans:  1.228
+Mean number of characters in all fr spans: 17.137
+Mean number of characters in all eng spans: 18.444
+Mean number of characters in fr leaf spans:  4.615
+Mean number of characters in eng leaf spans:  5.159
+
+Derniere Classe:
+number of sentences in data_processed\LaDerniereClasse_sents.txt: 91
+number of words: 2045
+number of sentences in data_processed\TheLastLesson_sents.txt: 91
+number of words: 1935
+Ratio of nb of French/nb of English words: 1.0568
+number of all spans: 2902
+number of leaf spans: 1420
+nb of w2w alignments created: 1058 sure, 2174 potential
+Max depth of an alignment tree: 10
+Mean number of words in all fr spans: 4.024
+Mean number of words in all eng spans: 3.858
+Mean number of words in fr leaf spans:  1.347
+Mean number of words in eng leaf spans:  1.307
+Mean number of characters in all fr spans: 10.661
+Mean number of characters in all eng spans: 16.717
+Mean number of characters in fr leaf spans:  5.123
+Mean number of characters in eng leaf spans:  5.082
+
+Vision:
+number of sentences in data_processed\LaVision_sents.txt: 105
+number of words: 2912
+number of sentences in data_processed\TheVision_sents.txt: 105
+number of words: 2790
+Ratio of nb of French/nb of English words: 1.0437
+number of all spans: 4480
+number of leaf spans: 2165
+nb of w2w alignments created: 1681 sure, 2542 potential
+Max depth of an alignment tree: 12
+Mean number of words in all fr spans: 4.136
+Mean number of words in all eng spans: 4.010
+Mean number of words in fr leaf spans:  1.247
+Mean number of words in eng leaf spans:  1.229
+Mean number of characters in all fr spans: 17.836
+Mean number of characters in all eng spans: 15.339
+Mean number of characters in fr leaf spans:  4.853
+Mean number of characters in eng leaf spans:  4.681
+
+
