@@ -7,7 +7,7 @@ Ratio of nb of French/nb of English words: 0.9679
 number of all spans: 9144
 number of leaf spans: 4368
 nb of w2w alignments created: 3389 sure, 6102 potential
-Max depth of an alignment tree: 12
+Max depth of an alignment tree: 12, in sent id=169
 Mean number of words in all fr spans: 3.994
 Mean number of words in all eng spans: 4.160
 Mean number of words in fr leaf spans:  1.222
@@ -26,7 +26,7 @@ Ratio of nb of French/nb of English words: 0.9602
 number of all spans: 3311
 number of leaf spans: 1522
 nb of w2w alignments created: 1151 sure, 1913 potential
-Max depth of an alignment tree: 11
+Max depth of an alignment tree: 11, in sent id=17
 Mean number of words in all fr spans: 4.205
 Mean number of words in all eng spans: 4.256
 Mean number of words in fr leaf spans:  1.287
@@ -45,7 +45,7 @@ Ratio of nb of French/nb of English words: 0.9140
 number of all spans: 3091
 number of leaf spans: 1453
 nb of w2w alignments created: 1173 sure, 1416 potential
-Max depth of an alignment tree: 10
+Max depth of an alignment tree: 10, in sent id=6
 Mean number of words in all fr spans: 3.952
 Mean number of words in all eng spans: 4.217
 Mean number of words in fr leaf spans:  1.198
@@ -64,7 +64,7 @@ Ratio of nb of French/nb of English words: 1.0568
 number of all spans: 2902
 number of leaf spans: 1420
 nb of w2w alignments created: 1058 sure, 2174 potential
-Max depth of an alignment tree: 10
+Max depth of an alignment tree: 10, in sent id=21
 Mean number of words in all fr spans: 4.024
 Mean number of words in all eng spans: 3.858
 Mean number of words in fr leaf spans:  1.347
@@ -83,7 +83,7 @@ Ratio of nb of French/nb of English words: 1.0437
 number of all spans: 4480
 number of leaf spans: 2165
 nb of w2w alignments created: 1681 sure, 2542 potential
-Max depth of an alignment tree: 12
+Max depth of an alignment tree: 12, in sent id=5
 Mean number of words in all fr spans: 4.136
 Mean number of words in all eng spans: 4.010
 Mean number of words in fr leaf spans:  1.247

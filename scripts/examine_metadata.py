@@ -97,7 +97,7 @@ def analyse_alignments(path_ali_xml, path_ali_w2w):
     df_leaf_spans['tree_depth'] = df_leaf_spans['link_id'].map(
         check_tree_depth)
     print(
-        f'Max depth of an alignment tree: {df_leaf_spans["tree_depth"].max()}')
+        f'Max depth of an alignment tree: {df_leaf_spans["tree_depth"].max()}, in sent id={df_leaf_spans.loc[df_leaf_spans["tree_depth"].idxmax()].link_id.split(".")[0]}')
     print(
         f"Mean number of words in all fr spans: {df_all_spans['nb_words_fr_span'].mean():.3f}\nMean number of words in all eng spans: {df_all_spans['nb_words_eng_span'].mean():.3f}")
     print(
@@ -118,16 +118,12 @@ def analyse_alignments(path_ali_xml, path_ali_w2w):
 # keep in mind that the number of words is a bit strange as sometimes punctuation is separated
 if __name__ == "__main__":
 
-    ali_xml_path = "dat\BarbeBleue_BlueBeard.ali.xml"
+    ali_xml_path = "dat\LaVision_TheVision.ali.xml"
     ali_w2w_path = "data_processed/ali+_w2w_ChatBotte_MasterCat.txt"
     fr_sents_path = "data_processed\LAuberge_sents.txt"
     eng_sents_path = "data_processed\TheInn_sents.txt"
     fr_html_path = ""
     eng_html_path = ""
-
-    eng_sents = pd.read_csv(eng_sents_path, sep="\t", header=None)
-    fr_sents = pd.read_csv(fr_sents_path, sep="\t", header=None)
-
     get_nb_sents_nb_words_ratio(fr_sents_path, eng_sents_path)
     count_w2w_alignments(
         "data_processed/ali+_w2w_LaVision_TheVision.txt")
