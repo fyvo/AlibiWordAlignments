@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-import sys
 
 
 def extract_sentences(soup):
@@ -38,9 +37,6 @@ if __name__ == "__main__":
     path_fr = "scripts/sents_ChatBotte_fr.txt"
 
     # path_fr = input("path to file where you want to save the fr sentences: ")
-    path_eng = input(
-        "path to file where you want to save the eng sentences: ")
-    # path_eng = sys.argv[2]
-    # path_fr = sys.argv[3]
-
+    # path_eng = input(
+    #     "path to file where you want to save the eng sentences: ")
     write_eng_fr_to_files(sents, path_eng, path_fr)
