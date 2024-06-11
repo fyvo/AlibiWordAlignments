@@ -1,4 +1,3 @@
-import re
 from bs4 import BeautifulSoup
 
 
@@ -34,9 +33,11 @@ def extract_leaves_with_span_info(soup, separate_by_sentence=True):
             continue
         list_parent_ids = [link['parentID'] for link in links]
         for link in links:
+            # a link is a leaf if no other link has it as a parent
             if link['id'] not in list_parent_ids:
                 docspans_fr_eng = [(docspan['beginPos'].split('.')[-1], docspan['endPos'].split(
                     '.')[-1], docspan.string) for docspan in link.find_all('docSpan')]
+                # for every link, a list of two tuples containing begPos, endPos and the span text for French and for English
                 all_leaves[link['id']] = docspans_fr_eng
                 if separate_by_sentence:
                     sentence_leaves[link['id']] = docspans_fr_eng
@@ -47,50 +48,15 @@ def extract_leaves_with_span_info(soup, separate_by_sentence=True):
     return all_leaves
 
 
-def convert_to_pharaoh(dict_all_leaves_by_sentence, alignment_filepath):
-    # regex matching (one or more) digits preceded by underscore, separated by a dash
-    pattern = r"_(\d+-\d+)"
-    for i, sentence_leaves in enumerate(dict_all_leaves_by_sentence):
-        with open(alignment_filepath, 'a+') as file:
-            file.write(f'{i}\t')
-            for span_id in sentence_leaves.keys():
-                fr_span, eng_span = re.findall(pattern, span_id)
-                fr_begin, fr_end = fr_span.split('-')
-                eng_begin, eng_end = eng_span.split('-')
-                if fr_begin == fr_end and eng_begin == eng_end:  # 1 fr to 1 eng token, sure alignment
-                    file.write(f'{fr_begin}-{eng_begin} ')
-                elif fr_begin != fr_end and eng_begin == eng_end:
-                    # many fr to 1 eng, potential
-                    for j in range(int(fr_begin), int(fr_end)+1):
-                        file.write(f'{j}p{eng_begin} ')
-                elif fr_begin == fr_end and eng_begin != eng_end:
-                    # 1 fr to many eng, potential
-                    for j in range(int(eng_begin), int(eng_end)+1):
-                        file.write(f'{fr_begin}p{j} ')
-                elif fr_begin != fr_end and eng_begin != eng_end:  # many fr to many eng, potential
-                    for j in range(int(fr_begin), int(fr_end)+1):
-                        for k in range(int(eng_begin), int(eng_end)+1):
-                            file.write(f'{j}p{k} ')
-            file.write('\n')
-
-
 if __name__ == "__main__":
+    # alignment_xml_path = input("path to the xml alignments file: ")
     alignment_xml_path = 'dat/Laderniereclasse_Thelastlesson.ali.xml'
-    alignment_xml_path = input("path to the xml alignments file: ")
-
     with open(alignment_xml_path, 'r') as filehandle:
         soup = BeautifulSoup(filehandle, 'xml')
-
     dict_all_leaves_by_sentence, dict_all_leaves = extract_leaves_with_span_info(
         soup, separate_by_sentence=True)
     all_leaves_strings = extract_leaves_strings_only(soup)
-
-    alignment_filepath = 'classe_tests.txt'
-    alignment_filepath = input(
-        "path to file where you want to save the w2w leaf alignments: ")
-    convert_to_pharaoh(dict_all_leaves_by_sentence, alignment_filepath)
-
-
+    print(all_leaves_strings, dict_all_leaves_by_sentence, dict_all_leaves)
 # def build_indices(path_eng_sents, path_fr_sents):
 #     indices_dict = {'fr_ids2tokens': [], 'fr_tokens2ids': [],
 #                     'eng_ids2tokens': [], 'eng_tokens2ids': []}
