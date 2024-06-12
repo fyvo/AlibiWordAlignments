@@ -1,7 +1,7 @@
 <trAnnot xmlns="http://transread.limsi.fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://transread.limsi.fr/Resources/transread.xsd">
   <docList>
-    <docName id="doc_fr" xml:lang="fr">FR-normalized.html</docName>
-    <docName id="doc_en" xml:lang="en">EN-normalized.html</docName>
+    <docName id="doc_fr" xml:lang="fr">ChatBotte_normalized.html</docName>
+    <docName id="doc_en" xml:lang="en">MasterCat_normalized.html</docName>
   </docList>
   <linkList level="chunk">
     <linkGroup id="1" type="alignment">
