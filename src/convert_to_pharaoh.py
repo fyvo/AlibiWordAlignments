@@ -31,7 +31,7 @@ def convert_to_pharaoh(dict_all_leaves_by_sentence, alignment_filepath):
 
 
 if __name__ == "__main__":
-    alignment_xml_path = 'dat/Laderniereclasse_Thelastlesson.ali.xml'
+    alignment_xml_path = 'dat/ChatBotte_MasterCat.ali.xml'
     # alignment_xml_path = input("path to the xml alignments file: ")
 
     with open(alignment_xml_path, 'r') as filehandle:
@@ -40,7 +40,7 @@ if __name__ == "__main__":
     dict_all_leaves_by_sentence, dict_all_leaves = extract_leaves_with_span_info(
         soup, separate_by_sentence=True)
 
-    alignment_filepath = 'classe_tests.txt'
+    alignment_filepath = 'chat_tests.txt'
     # alignment_filepath = input(
     #     "path to file where you want to save the w2w leaf alignments: ")
     convert_to_pharaoh(dict_all_leaves_by_sentence, alignment_filepath)

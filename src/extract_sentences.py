@@ -2,7 +2,10 @@ from bs4 import BeautifulSoup
 import sys
 
 
-def extract_sentences(soup):
+def extract_sentences(soup_or_path, is_path=False):
+    if is_path:
+        with open(soup_or_path, 'r') as filehandle:
+            soup = BeautifulSoup(filehandle, 'xml')
     # the first linkList contains linkGroups with all the alignments (linkList level='chunk')
     linkGroups = soup.linkList.find_all('linkGroup')
     sentence_tuples = []
