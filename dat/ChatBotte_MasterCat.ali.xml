@@ -12641,7 +12641,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_14" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.37" endPos="doc_fr 1.3.3.0.37" tokenID="doc_fr 2.7">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_15" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.39" endPos="doc_fr 1.3.3.0.39" tokenID="doc_fr 2.8">à</docSpan>
@@ -12669,7 +12669,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_21" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.66" endPos="doc_fr 1.3.3.0.66" tokenID="doc_fr 2.14">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_22" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.68" endPos="doc_fr 1.3.3.0.70" tokenID="doc_fr 2.15">que</docSpan>
@@ -12685,7 +12685,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_25" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.82" endPos="doc_fr 1.3.3.0.82" tokenID="doc_fr 2.18">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_26" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.84" endPos="doc_fr 1.3.3.0.86" tokenID="doc_fr 2.19">son</docSpan>
@@ -12709,7 +12709,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_31" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.103" endPos="doc_fr 1.3.3.0.103" tokenID="doc_fr 2.24">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="55" type="annotation">
@@ -12736,7 +12736,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_37" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.139" endPos="doc_fr 1.3.3.0.139" tokenID="doc_fr 3.5">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_38" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.141" endPos="doc_fr 1.3.3.0.142" tokenID="doc_fr 3.6">ni</docSpan>
@@ -12752,7 +12752,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_41" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.154" endPos="doc_fr 1.3.3.0.154" tokenID="doc_fr 3.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_42" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.156" endPos="doc_fr 1.3.3.0.157" tokenID="doc_fr 3.10">ni</docSpan>
@@ -12764,7 +12764,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_44" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.162" endPos="doc_fr 1.3.3.0.170" tokenID="doc_fr 3.12">procureur</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_45" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.172" endPos="doc_fr 1.3.3.0.173" tokenID="doc_fr 3.13">n’</docSpan>
@@ -12788,7 +12788,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_50" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.196" endPos="doc_fr 1.3.3.0.196" tokenID="doc_fr 3.18">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="56" type="annotation">
@@ -12831,7 +12831,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_60" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.253" endPos="doc_fr 1.3.3.0.253" tokenID="doc_fr 4.9">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="57" type="annotation">
@@ -12858,7 +12858,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_66" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.275" endPos="doc_fr 1.3.3.0.275" tokenID="doc_fr 5.5">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_67" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.277" endPos="doc_fr 1.3.3.0.278" tokenID="doc_fr 5.6">le</docSpan>
@@ -12882,7 +12882,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_72" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.296" endPos="doc_fr 1.3.3.0.296" tokenID="doc_fr 5.11">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_73" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.298" endPos="doc_fr 1.3.3.0.299" tokenID="doc_fr 5.12">et</docSpan>
@@ -12922,7 +12922,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_82" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.332" endPos="doc_fr 1.3.3.0.332" tokenID="doc_fr 5.21">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="58" type="annotation">
@@ -12977,7 +12977,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_95" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.394" endPos="doc_fr 1.3.3.0.394" tokenID="doc_fr 6.12">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_96" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.396" endPos="doc_fr 1.3.3.0.396" tokenID="doc_fr 6.13">«</docSpan>
@@ -12993,7 +12993,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_99" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.408" endPos="doc_fr 1.3.3.0.408" tokenID="doc_fr 6.16">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_100" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.410" endPos="doc_fr 1.3.3.0.415" tokenID="doc_fr 6.17">disait</docSpan>
@@ -13005,7 +13005,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_102" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.419" endPos="doc_fr 1.3.3.0.419" tokenID="doc_fr 6.19">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_103" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.421" endPos="doc_fr 1.3.3.0.428" tokenID="doc_fr 6.20">pourront</docSpan>
@@ -13045,7 +13045,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_112" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.481" endPos="doc_fr 1.3.3.0.481" tokenID="doc_fr 6.29">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_113" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.483" endPos="doc_fr 1.3.3.0.486" tokenID="doc_fr 6.30">pour</docSpan>
@@ -13057,7 +13057,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_115" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.491" endPos="doc_fr 1.3.3.0.491" tokenID="doc_fr 6.32">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_116" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.493" endPos="doc_fr 1.3.3.0.499" tokenID="doc_fr 6.33">lorsque</docSpan>
@@ -13085,7 +13085,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_122" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.523" endPos="doc_fr 1.3.3.0.523" tokenID="doc_fr 6.39">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_123" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.525" endPos="doc_fr 1.3.3.0.526" tokenID="doc_fr 6.40">et</docSpan>
@@ -13133,7 +13133,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_134" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.570" endPos="doc_fr 1.3.3.0.570" tokenID="doc_fr 6.51">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_135" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.572" endPos="doc_fr 1.3.3.0.573" tokenID="doc_fr 6.52">il</docSpan>
@@ -13184,7 +13184,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_146" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.614" endPos="doc_fr 1.3.3.0.614" tokenID="doc_fr 7.2">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_147" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.616" endPos="doc_fr 1.3.3.0.618" tokenID="doc_fr 7.3">qui</docSpan>
@@ -13204,7 +13204,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_151" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.641" endPos="doc_fr 1.3.3.0.641" tokenID="doc_fr 7.7">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_152" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.643" endPos="doc_fr 1.3.3.0.646" tokenID="doc_fr 7.8">mais</docSpan>
@@ -13236,7 +13236,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_159" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.673" endPos="doc_fr 1.3.3.0.673" tokenID="doc_fr 7.15">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_160" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.675" endPos="doc_fr 1.3.3.0.677" tokenID="doc_fr 7.16">lui</docSpan>
@@ -13272,7 +13272,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_168" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.708" endPos="doc_fr 1.3.3.0.708" tokenID="doc_fr 7.24">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_169" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.710" endPos="doc_fr 1.3.3.0.710" tokenID="doc_fr 7.25">«</docSpan>
@@ -13296,7 +13296,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_174" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.734" endPos="doc_fr 1.3.3.0.734" tokenID="doc_fr 7.30">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_175" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.736" endPos="doc_fr 1.3.3.0.738" tokenID="doc_fr 7.31">mon</docSpan>
@@ -13308,7 +13308,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_177" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.747" endPos="doc_fr 1.3.3.0.747" tokenID="doc_fr 7.33">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_178" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.749" endPos="doc_fr 1.3.3.0.752" tokenID="doc_fr 7.34">vous</docSpan>
@@ -13400,7 +13400,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_200" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.853" endPos="doc_fr 1.3.3.0.853" tokenID="doc_fr 7.56">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_201" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.855" endPos="doc_fr 1.3.3.0.856" tokenID="doc_fr 7.57">et</docSpan>
@@ -13479,7 +13479,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_219" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.936" endPos="doc_fr 1.3.3.0.941" tokenID="doc_fr 8.2">maître</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_220" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.943" endPos="doc_fr 1.3.3.0.944" tokenID="doc_fr 8.3">du</docSpan>
@@ -13487,7 +13487,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_221" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.946" endPos="doc_fr 1.3.3.0.949" tokenID="doc_fr 8.4">chat</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_222" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.951" endPos="doc_fr 1.3.3.0.952" tokenID="doc_fr 8.5">ne</docSpan>
@@ -13507,7 +13507,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_226" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.968" endPos="doc_fr 1.3.3.0.971" tokenID="doc_fr 8.9">fond</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_227" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.973" endPos="doc_fr 1.3.3.0.981" tokenID="doc_fr 8.10">là-dessus</docSpan>
@@ -13515,7 +13515,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_228" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.982" endPos="doc_fr 1.3.3.0.982" tokenID="doc_fr 8.11">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_229" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.984" endPos="doc_fr 1.3.3.0.985" tokenID="doc_fr 8.12">il</docSpan>
@@ -13547,7 +13547,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_236" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1014" endPos="doc_fr 1.3.3.0.1018" tokenID="doc_fr 8.19">tours</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_237" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1020" endPos="doc_fr 1.3.3.0.1021" tokenID="doc_fr 8.20">de</docSpan>
@@ -13587,7 +13587,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_246" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1068" endPos="doc_fr 1.3.3.0.1068" tokenID="doc_fr 8.29">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_247" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1070" endPos="doc_fr 1.3.3.0.1074" tokenID="doc_fr 8.30">comme</docSpan>
@@ -13623,7 +13623,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_255" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1109" endPos="doc_fr 1.3.3.0.1109" tokenID="doc_fr 8.38">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_256" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1111" endPos="doc_fr 1.3.3.0.1112" tokenID="doc_fr 8.39">ou</docSpan>
@@ -13675,7 +13675,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_268" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1164" endPos="doc_fr 1.3.3.0.1164" tokenID="doc_fr 8.51">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_269" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1166" endPos="doc_fr 1.3.3.0.1168" tokenID="doc_fr 8.52">qu’</docSpan>
@@ -13727,7 +13727,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_281" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1221" endPos="doc_fr 1.3.3.0.1221" tokenID="doc_fr 8.64">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="61" type="annotation">
@@ -13770,7 +13770,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_291" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1266" endPos="doc_fr 1.3.3.0.1266" tokenID="doc_fr 9.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_292" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1268" endPos="doc_fr 1.3.3.0.1269" tokenID="doc_fr 9.10">il</docSpan>
@@ -13790,7 +13790,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_296" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1289" endPos="doc_fr 1.3.3.0.1289" tokenID="doc_fr 9.14">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_297" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1291" endPos="doc_fr 1.3.3.0.1292" tokenID="doc_fr 9.15">et</docSpan>
@@ -13798,7 +13798,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_298" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1293" endPos="doc_fr 1.3.3.0.1293" tokenID="doc_fr 9.16">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_299" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1295" endPos="doc_fr 1.3.3.0.1301" tokenID="doc_fr 9.17">mettant</docSpan>
@@ -13822,11 +13822,11 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_304" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1317" endPos="doc_fr 1.3.3.0.1319" tokenID="doc_fr 9.22">cou</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_305" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1320" endPos="doc_fr 1.3.3.0.1320" tokenID="doc_fr 9.23">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_306" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1322" endPos="doc_fr 1.3.3.0.1323" tokenID="doc_fr 9.24">il</docSpan>
@@ -13874,7 +13874,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_317" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1375" endPos="doc_fr 1.3.3.0.1375" tokenID="doc_fr 9.35">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_318" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1377" endPos="doc_fr 1.3.3.0.1378" tokenID="doc_fr 9.36">et</docSpan>
@@ -13938,7 +13938,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_333" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1443" endPos="doc_fr 1.3.3.0.1443" tokenID="doc_fr 9.51">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="62" type="annotation">
@@ -13985,7 +13985,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_344" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1488" endPos="doc_fr 1.3.3.0.1488" tokenID="doc_fr 10.10">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_345" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1490" endPos="doc_fr 1.3.3.0.1491" tokenID="doc_fr 10.11">et</docSpan>
@@ -14025,7 +14025,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_354" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1527" endPos="doc_fr 1.3.3.0.1527" tokenID="doc_fr 10.20">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_355" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1529" endPos="doc_fr 1.3.3.0.1530" tokenID="doc_fr 10.21">il</docSpan>
@@ -14053,7 +14053,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_361" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1564" endPos="doc_fr 1.3.3.0.1564" tokenID="doc_fr 10.27">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_362" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1566" endPos="doc_fr 1.3.3.0.1568" tokenID="doc_fr 10.28">peu</docSpan>
@@ -14089,7 +14089,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_370" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1607" endPos="doc_fr 1.3.3.0.1607" tokenID="doc_fr 10.36">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_371" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1609" endPos="doc_fr 1.3.3.0.1612" tokenID="doc_fr 10.37">vînt</docSpan>
@@ -14149,7 +14149,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_385" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1670" endPos="doc_fr 1.3.3.0.1670" tokenID="doc_fr 10.51">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="63" type="annotation">
@@ -14160,7 +14160,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_387" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1675" endPos="doc_fr 1.3.3.0.1679" tokenID="doc_fr 11.1">peine</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_388" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1681" endPos="doc_fr 1.3.3.0.1683" tokenID="doc_fr 11.2">fut</docSpan>
@@ -14176,7 +14176,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_391" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1694" endPos="doc_fr 1.3.3.0.1694" tokenID="doc_fr 11.5">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_392" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1696" endPos="doc_fr 1.3.3.0.1698" tokenID="doc_fr 11.6">qu’</docSpan>
@@ -14196,7 +14196,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_396" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1719" endPos="doc_fr 1.3.3.0.1719" tokenID="doc_fr 11.10">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_397" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1721" endPos="doc_fr 1.3.3.0.1722" tokenID="doc_fr 11.11">un</docSpan>
@@ -14236,7 +14236,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_406" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1765" endPos="doc_fr 1.3.3.0.1765" tokenID="doc_fr 11.20">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_407" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1767" endPos="doc_fr 1.3.3.0.1768" tokenID="doc_fr 11.21">et</docSpan>
@@ -14256,7 +14256,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_411" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1784" endPos="doc_fr 1.3.3.0.1784" tokenID="doc_fr 11.25">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_412" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1786" endPos="doc_fr 1.3.3.0.1791" tokenID="doc_fr 11.26">tirant</docSpan>
@@ -14276,7 +14276,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_416" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1813" endPos="doc_fr 1.3.3.0.1813" tokenID="doc_fr 11.30">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_417" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1815" endPos="doc_fr 1.3.3.0.1816" tokenID="doc_fr 11.31">le</docSpan>
@@ -14308,7 +14308,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_424" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1849" endPos="doc_fr 1.3.3.0.1849" tokenID="doc_fr 11.38">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="64" type="annotation">
@@ -14335,7 +14335,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_430" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1877" endPos="doc_fr 1.3.3.0.1877" tokenID="doc_fr 12.5">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_431" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1879" endPos="doc_fr 1.3.3.0.1880" tokenID="doc_fr 12.6">il</docSpan>
@@ -14387,7 +14387,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_443" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1927" endPos="doc_fr 1.3.3.0.1927" tokenID="doc_fr 12.18">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="65" type="annotation">
@@ -14426,7 +14426,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_452" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1965" endPos="doc_fr 1.3.3.0.1966" tokenID="doc_fr 13.8">Sa</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_453" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1968" endPos="doc_fr 1.3.3.0.1974" tokenID="doc_fr 13.9">Majesté</docSpan>
@@ -14434,7 +14434,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_454" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1975" endPos="doc_fr 1.3.3.0.1975" tokenID="doc_fr 13.10">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_455" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1977" endPos="doc_fr 1.3.3.0.1978" tokenID="doc_fr 13.11">où</docSpan>
@@ -14450,7 +14450,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_458" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1991" endPos="doc_fr 1.3.3.0.1991" tokenID="doc_fr 13.14">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_459" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.1993" endPos="doc_fr 1.3.3.0.1994" tokenID="doc_fr 13.15">il</docSpan>
@@ -14482,7 +14482,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_466" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2027" endPos="doc_fr 1.3.3.0.2027" tokenID="doc_fr 13.22">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_467" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2029" endPos="doc_fr 1.3.3.0.2030" tokenID="doc_fr 13.23">et</docSpan>
@@ -14498,7 +14498,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_470" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2040" endPos="doc_fr 1.3.3.0.2040" tokenID="doc_fr 13.26">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_471" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2042" endPos="doc_fr 1.3.3.0.2042" tokenID="doc_fr 13.27">«</docSpan>
@@ -14510,7 +14510,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_473" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2049" endPos="doc_fr 1.3.3.0.2049" tokenID="doc_fr 13.29">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_474" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2051" endPos="doc_fr 1.3.3.0.2054" tokenID="doc_fr 13.30">sire</docSpan>
@@ -14518,7 +14518,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_475" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2055" endPos="doc_fr 1.3.3.0.2055" tokenID="doc_fr 13.31">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_476" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2057" endPos="doc_fr 1.3.3.0.2058" tokenID="doc_fr 13.32">un</docSpan>
@@ -14666,7 +14666,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_512" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2213" endPos="doc_fr 1.3.3.0.2213" tokenID="doc_fr 13.68">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="66" type="annotation">
@@ -14693,7 +14693,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_518" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2233" endPos="doc_fr 1.3.3.0.2233" tokenID="doc_fr 14.5">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_519" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2235" endPos="doc_fr 1.3.3.0.2242" tokenID="doc_fr 14.6">répondit</docSpan>
@@ -14709,7 +14709,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_522" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2250" endPos="doc_fr 1.3.3.0.2250" tokenID="doc_fr 14.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_523" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2252" endPos="doc_fr 1.3.3.0.2254" tokenID="doc_fr 14.10">que</docSpan>
@@ -14776,7 +14776,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_538" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2314" endPos="doc_fr 1.3.3.0.2314" tokenID="doc_fr 15.3">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_539" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2316" endPos="doc_fr 1.3.3.0.2317" tokenID="doc_fr 15.4">il</docSpan>
@@ -14808,7 +14808,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_546" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2345" endPos="doc_fr 1.3.3.0.2345" tokenID="doc_fr 15.11">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_547" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2347" endPos="doc_fr 1.3.3.0.2352" tokenID="doc_fr 15.12">tenant</docSpan>
@@ -14832,7 +14832,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_552" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2377" endPos="doc_fr 1.3.3.0.2377" tokenID="doc_fr 15.17">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_553" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2379" endPos="doc_fr 1.3.3.0.2380" tokenID="doc_fr 15.18">et</docSpan>
@@ -14840,7 +14840,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_554" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2381" endPos="doc_fr 1.3.3.0.2381" tokenID="doc_fr 15.19">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_555" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2383" endPos="doc_fr 1.3.3.0.2389" tokenID="doc_fr 15.20">lorsque</docSpan>
@@ -14868,7 +14868,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_561" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2420" endPos="doc_fr 1.3.3.0.2420" tokenID="doc_fr 15.26">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_562" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2422" endPos="doc_fr 1.3.3.0.2423" tokenID="doc_fr 15.27">il</docSpan>
@@ -14908,7 +14908,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_571" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2465" endPos="doc_fr 1.3.3.0.2465" tokenID="doc_fr 15.36">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="68" type="annotation">
@@ -14943,7 +14943,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_579" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2503" endPos="doc_fr 1.3.3.0.2503" tokenID="doc_fr 16.7">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_580" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2505" endPos="doc_fr 1.3.3.0.2509" tokenID="doc_fr 16.8">comme</docSpan>
@@ -14979,7 +14979,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_588" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2544" endPos="doc_fr 1.3.3.0.2544" tokenID="doc_fr 16.16">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="69" type="annotation">
@@ -15022,7 +15022,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_598" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2595" endPos="doc_fr 1.3.3.0.2595" tokenID="doc_fr 17.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_599" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2597" endPos="doc_fr 1.3.3.0.2598" tokenID="doc_fr 17.10">et</docSpan>
@@ -15050,7 +15050,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_605" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2625" endPos="doc_fr 1.3.3.0.2625" tokenID="doc_fr 17.16">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="70" type="annotation">
@@ -15073,7 +15073,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_610" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2650" endPos="doc_fr 1.3.3.0.2650" tokenID="doc_fr 18.4">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_611" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2652" endPos="doc_fr 1.3.3.0.2658" tokenID="doc_fr 18.5">pendant</docSpan>
@@ -15097,7 +15097,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_616" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2678" endPos="doc_fr 1.3.3.0.2678" tokenID="doc_fr 18.10">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_617" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2680" endPos="doc_fr 1.3.3.0.2680" tokenID="doc_fr 18.11">à</docSpan>
@@ -15113,7 +15113,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_620" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2692" endPos="doc_fr 1.3.3.0.2696" tokenID="doc_fr 18.14">temps</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_621" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2698" endPos="doc_fr 1.3.3.0.2699" tokenID="doc_fr 18.15">en</docSpan>
@@ -15121,7 +15121,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_622" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2701" endPos="doc_fr 1.3.3.0.2705" tokenID="doc_fr 18.16">temps</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_623" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2707" endPos="doc_fr 1.3.3.0.2708" tokenID="doc_fr 18.17">au</docSpan>
@@ -15165,7 +15165,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_633" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2750" endPos="doc_fr 1.3.3.0.2750" tokenID="doc_fr 18.27">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="71" type="annotation">
@@ -15224,7 +15224,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_647" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2808" endPos="doc_fr 1.3.3.0.2808" tokenID="doc_fr 19.13">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_648" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2810" endPos="doc_fr 1.3.3.0.2812" tokenID="doc_fr 19.14">sur</docSpan>
@@ -15252,7 +15252,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_654" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2835" endPos="doc_fr 1.3.3.0.2835" tokenID="doc_fr 19.20">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_655" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2837" endPos="doc_fr 1.3.3.0.2838" tokenID="doc_fr 19.21">il</docSpan>
@@ -15276,7 +15276,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_660" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2857" endPos="doc_fr 1.3.3.0.2857" tokenID="doc_fr 19.26">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_661" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2859" endPos="doc_fr 1.3.3.0.2859" tokenID="doc_fr 19.27">«</docSpan>
@@ -15308,7 +15308,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_668" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2894" endPos="doc_fr 1.3.3.0.2894" tokenID="doc_fr 19.34">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_669" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2896" endPos="doc_fr 1.3.3.0.2900" tokenID="doc_fr 19.35">votre</docSpan>
@@ -15328,7 +15328,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_673" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2920" endPos="doc_fr 1.3.3.0.2920" tokenID="doc_fr 19.39">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_674" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2922" endPos="doc_fr 1.3.3.0.2925" tokenID="doc_fr 19.40">vous</docSpan>
@@ -15372,7 +15372,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_684" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2967" endPos="doc_fr 1.3.3.0.2967" tokenID="doc_fr 19.50">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_685" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.2969" endPos="doc_fr 1.3.3.0.2969" tokenID="doc_fr 19.51">à</docSpan>
@@ -15404,7 +15404,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_692" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3002" endPos="doc_fr 1.3.3.0.3002" tokenID="doc_fr 19.58">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_693" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3004" endPos="doc_fr 1.3.3.0.3005" tokenID="doc_fr 19.59">et</docSpan>
@@ -15483,7 +15483,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_711" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3093" endPos="doc_fr 1.3.3.0.3093" tokenID="doc_fr 20.11">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_712" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3095" endPos="doc_fr 1.3.3.0.3098" tokenID="doc_fr 20.12">sans</docSpan>
@@ -15515,7 +15515,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_719" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3129" endPos="doc_fr 1.3.3.0.3129" tokenID="doc_fr 20.19">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="73" type="annotation">
@@ -15550,7 +15550,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_727" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3162" endPos="doc_fr 1.3.3.0.3162" tokenID="doc_fr 21.7">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_728" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3164" endPos="doc_fr 1.3.3.0.3165" tokenID="doc_fr 21.8">le</docSpan>
@@ -15574,7 +15574,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_733" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3184" endPos="doc_fr 1.3.3.0.3184" tokenID="doc_fr 21.13">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_734" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3186" endPos="doc_fr 1.3.3.0.3187" tokenID="doc_fr 21.14">et</docSpan>
@@ -15622,7 +15622,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_745" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3230" endPos="doc_fr 1.3.3.0.3230" tokenID="doc_fr 21.25">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_746" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3232" endPos="doc_fr 1.3.3.0.3232" tokenID="doc_fr 21.26">«</docSpan>
@@ -15638,7 +15638,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_749" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3245" endPos="doc_fr 1.3.3.0.3245" tokenID="doc_fr 21.29">!</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_750" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3247" endPos="doc_fr 1.3.3.0.3248" tokenID="doc_fr 21.30">au</docSpan>
@@ -15650,7 +15650,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_752" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3258" endPos="doc_fr 1.3.3.0.3258" tokenID="doc_fr 21.32">!</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="74" type="annotation">
@@ -15693,7 +15693,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_762" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3309" endPos="doc_fr 1.3.3.0.3309" tokenID="doc_fr 22.9">!</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_763" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3311" endPos="doc_fr 1.3.3.0.3311" tokenID="doc_fr 22.10">»</docSpan>
@@ -15712,11 +15712,11 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_766" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3318" endPos="doc_fr 1.3.3.0.3320" tokenID="doc_fr 23.2">cri</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_767" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3321" endPos="doc_fr 1.3.3.0.3321" tokenID="doc_fr 23.3">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_768" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3323" endPos="doc_fr 1.3.3.0.3324" tokenID="doc_fr 23.4">le</docSpan>
@@ -15752,7 +15752,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_776" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3355" endPos="doc_fr 1.3.3.0.3355" tokenID="doc_fr 23.12">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_777" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3357" endPos="doc_fr 1.3.3.0.3358" tokenID="doc_fr 23.13">et</docSpan>
@@ -15760,7 +15760,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_778" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3359" endPos="doc_fr 1.3.3.0.3359" tokenID="doc_fr 23.14">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_779" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3361" endPos="doc_fr 1.3.3.0.3373" tokenID="doc_fr 23.15">reconnaissant</docSpan>
@@ -15812,7 +15812,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_791" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3427" endPos="doc_fr 1.3.3.0.3427" tokenID="doc_fr 23.27">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_792" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3429" endPos="doc_fr 1.3.3.0.3430" tokenID="doc_fr 23.28">il</docSpan>
@@ -15884,7 +15884,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_809" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3514" endPos="doc_fr 1.3.3.0.3514" tokenID="doc_fr 23.45">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="76" type="annotation">
@@ -15931,7 +15931,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_820" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3571" endPos="doc_fr 1.3.3.0.3571" tokenID="doc_fr 24.10">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_821" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3573" endPos="doc_fr 1.3.3.0.3574" tokenID="doc_fr 24.11">le</docSpan>
@@ -15979,7 +15979,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_832" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3621" endPos="doc_fr 1.3.3.0.3621" tokenID="doc_fr 24.22">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_833" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3623" endPos="doc_fr 1.3.3.0.3626" tokenID="doc_fr 24.23">dans</docSpan>
@@ -15991,11 +15991,11 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_835" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3631" endPos="doc_fr 1.3.3.0.3635" tokenID="doc_fr 24.25">temps</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_836" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3637" endPos="doc_fr 1.3.3.0.3639" tokenID="doc_fr 24.26">que</docSpan>
-        <mark cat="POS" certainty="1">C</mark>
+        <mark cat="POS" certainty="1">CS</mark>>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_837" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3641" endPos="doc_fr 1.3.3.0.3643" tokenID="doc_fr 24.27">son</docSpan>
@@ -16015,7 +16015,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_841" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3663" endPos="doc_fr 1.3.3.0.3663" tokenID="doc_fr 24.31">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_842" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3665" endPos="doc_fr 1.3.3.0.3666" tokenID="doc_fr 24.32">il</docSpan>
@@ -16059,7 +16059,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_852" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3721" endPos="doc_fr 1.3.3.0.3721" tokenID="doc_fr 24.42">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_853" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3723" endPos="doc_fr 1.3.3.0.3729" tokenID="doc_fr 24.43">quoiqu’</docSpan>
@@ -16091,7 +16091,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_860" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3753" endPos="doc_fr 1.3.3.0.3753" tokenID="doc_fr 24.50">!</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_861" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3754" endPos="doc_fr 1.3.3.0.3754" tokenID="doc_fr 24.51">»</docSpan>
@@ -16115,7 +16115,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_866" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3774" endPos="doc_fr 1.3.3.0.3774" tokenID="doc_fr 24.56">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_867" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3776" endPos="doc_fr 1.3.3.0.3777" tokenID="doc_fr 24.57">le</docSpan>
@@ -16155,7 +16155,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_876" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3824" endPos="doc_fr 1.3.3.0.3824" tokenID="doc_fr 24.66">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="77" type="annotation">
@@ -16258,7 +16258,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_901" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3960" endPos="doc_fr 1.3.3.0.3960" tokenID="doc_fr 25.24">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="78" type="annotation">
@@ -16289,7 +16289,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_908" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3991" endPos="doc_fr 1.3.3.0.3991" tokenID="doc_fr 26.6">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_909" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3993" endPos="doc_fr 1.3.3.0.3994" tokenID="doc_fr 26.7">et</docSpan>
@@ -16297,7 +16297,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_910" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3995" endPos="doc_fr 1.3.3.0.3995" tokenID="doc_fr 26.8">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_911" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.3997" endPos="doc_fr 1.3.3.0.4001" tokenID="doc_fr 26.9">comme</docSpan>
@@ -16405,7 +16405,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_937" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4119" endPos="doc_fr 1.3.3.0.4119" tokenID="doc_fr 26.35">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_938" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4121" endPos="doc_fr 1.3.3.0.4122" tokenID="doc_fr 26.36">le</docSpan>
@@ -16473,7 +16473,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_954" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4194" endPos="doc_fr 1.3.3.0.4194" tokenID="doc_fr 26.52">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="79" type="annotation">
@@ -16488,7 +16488,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_957" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4203" endPos="doc_fr 1.3.3.0.4203" tokenID="doc_fr 27.2">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_958" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4205" endPos="doc_fr 1.3.3.0.4208" tokenID="doc_fr 27.3">ravi</docSpan>
@@ -16528,7 +16528,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_967" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4254" endPos="doc_fr 1.3.3.0.4254" tokenID="doc_fr 27.12">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_968" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4256" endPos="doc_fr 1.3.3.0.4259" tokenID="doc_fr 27.13">prit</docSpan>
@@ -16544,7 +16544,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_971" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4272" endPos="doc_fr 1.3.3.0.4272" tokenID="doc_fr 27.16">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_972" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4274" endPos="doc_fr 1.3.3.0.4275" tokenID="doc_fr 27.17">et</docSpan>
@@ -16552,7 +16552,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_973" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4276" endPos="doc_fr 1.3.3.0.4276" tokenID="doc_fr 27.18">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_974" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4278" endPos="doc_fr 1.3.3.0.4282" tokenID="doc_fr 27.19">ayant</docSpan>
@@ -16588,7 +16588,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_982" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4327" endPos="doc_fr 1.3.3.0.4327" tokenID="doc_fr 27.27">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_983" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4329" endPos="doc_fr 1.3.3.0.4330" tokenID="doc_fr 27.28">il</docSpan>
@@ -16604,7 +16604,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_986" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4341" endPos="doc_fr 1.3.3.0.4341" tokenID="doc_fr 27.31">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_987" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4343" endPos="doc_fr 1.3.3.0.4343" tokenID="doc_fr 27.32">«</docSpan>
@@ -16628,7 +16628,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_992" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4368" endPos="doc_fr 1.3.3.0.4368" tokenID="doc_fr 27.37">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_993" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4370" endPos="doc_fr 1.3.3.0.4371" tokenID="doc_fr 27.38">si</docSpan>
@@ -16708,7 +16708,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1012" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4465" endPos="doc_fr 1.3.3.0.4465" tokenID="doc_fr 27.57">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1013" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4467" endPos="doc_fr 1.3.3.0.4470" tokenID="doc_fr 27.58">vous</docSpan>
@@ -16827,7 +16827,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1041" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4601" endPos="doc_fr 1.3.3.0.4601" tokenID="doc_fr 28.17">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1042" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4603" endPos="doc_fr 1.3.3.0.4603" tokenID="doc_fr 28.18">«</docSpan>
@@ -16867,7 +16867,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1051" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4643" endPos="doc_fr 1.3.3.0.4643" tokenID="doc_fr 28.27">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1052" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4645" endPos="doc_fr 1.3.3.0.4645" tokenID="doc_fr 28.28">»</docSpan>
@@ -16887,11 +16887,11 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1056" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4663" endPos="doc_fr 1.3.3.0.4670" tokenID="doc_fr 28.32">ensemble</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1057" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4672" endPos="doc_fr 1.3.3.0.4672" tokenID="doc_fr 28.33">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1058" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4674" endPos="doc_fr 1.3.3.0.4676" tokenID="doc_fr 28.34">car</docSpan>
@@ -16927,11 +16927,11 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1066" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4712" endPos="doc_fr 1.3.3.0.4715" tokenID="doc_fr 28.42">peur</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1067" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4716" endPos="doc_fr 1.3.3.0.4716" tokenID="doc_fr 28.43">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="81" type="annotation">
@@ -16966,7 +16966,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1075" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4749" endPos="doc_fr 1.3.3.0.4749" tokenID="doc_fr 29.7">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1076" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4751" endPos="doc_fr 1.3.3.0.4753" tokenID="doc_fr 29.8">dit</docSpan>
@@ -16998,7 +16998,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1083" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4783" endPos="doc_fr 1.3.3.0.4783" tokenID="doc_fr 29.15">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="82" type="annotation">
@@ -17017,7 +17017,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1087" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4797" endPos="doc_fr 1.3.3.0.4797" tokenID="doc_fr 30.3">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1088" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4799" endPos="doc_fr 1.3.3.0.4802" tokenID="doc_fr 30.4">sire</docSpan>
@@ -17025,7 +17025,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1089" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4803" endPos="doc_fr 1.3.3.0.4803" tokenID="doc_fr 30.5">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1090" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4805" endPos="doc_fr 1.3.3.0.4812" tokenID="doc_fr 30.6">répondit</docSpan>
@@ -17041,7 +17041,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1093" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4825" endPos="doc_fr 1.3.3.0.4825" tokenID="doc_fr 30.9">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1094" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4827" endPos="doc_fr 1.3.3.0.4828" tokenID="doc_fr 30.10">c’</docSpan>
@@ -17124,7 +17124,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1113" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4921" endPos="doc_fr 1.3.3.0.4921" tokenID="doc_fr 31.3">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1114" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4923" endPos="doc_fr 1.3.3.0.4925" tokenID="doc_fr 31.4">qui</docSpan>
@@ -17144,7 +17144,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1118" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4949" endPos="doc_fr 1.3.3.0.4949" tokenID="doc_fr 31.8">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1119" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4951" endPos="doc_fr 1.3.3.0.4959" tokenID="doc_fr 31.9">rencontra</docSpan>
@@ -17172,7 +17172,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1125" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4990" endPos="doc_fr 1.3.3.0.4990" tokenID="doc_fr 31.15">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1126" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.4992" endPos="doc_fr 1.3.3.0.4992" tokenID="doc_fr 31.16">«</docSpan>
@@ -17196,7 +17196,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1131" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5020" endPos="doc_fr 1.3.3.0.5020" tokenID="doc_fr 31.21">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1132" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5022" endPos="doc_fr 1.3.3.0.5023" tokenID="doc_fr 31.22">si</docSpan>
@@ -17260,7 +17260,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1147" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5103" endPos="doc_fr 1.3.3.0.5103" tokenID="doc_fr 31.37">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1148" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5105" endPos="doc_fr 1.3.3.0.5108" tokenID="doc_fr 31.38">vous</docSpan>
@@ -17319,7 +17319,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1161" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5161" endPos="doc_fr 1.3.3.0.5161" tokenID="doc_fr 32.2">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1162" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5163" endPos="doc_fr 1.3.3.0.5165" tokenID="doc_fr 32.3">qui</docSpan>
@@ -17343,7 +17343,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1167" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5188" endPos="doc_fr 1.3.3.0.5188" tokenID="doc_fr 32.8">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1168" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5190" endPos="doc_fr 1.3.3.0.5195" tokenID="doc_fr 32.9">voulut</docSpan>
@@ -17391,7 +17391,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1179" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5250" endPos="doc_fr 1.3.3.0.5250" tokenID="doc_fr 32.20">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="85" type="annotation">
@@ -17434,11 +17434,11 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1189" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5292" endPos="doc_fr 1.3.3.0.5292" tokenID="doc_fr 33.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1190" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5294" endPos="doc_fr 1.3.3.0.5294" tokenID="doc_fr 33.10">»</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1191" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5296" endPos="doc_fr 1.3.3.0.5306" tokenID="doc_fr 33.11">répondirent</docSpan>
@@ -17454,7 +17454,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1194" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5325" endPos="doc_fr 1.3.3.0.5325" tokenID="doc_fr 33.14">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1195" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5327" endPos="doc_fr 1.3.3.0.5328" tokenID="doc_fr 33.15">et</docSpan>
@@ -17498,7 +17498,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1205" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5372" endPos="doc_fr 1.3.3.0.5372" tokenID="doc_fr 33.25">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="86" type="annotation">
@@ -17513,7 +17513,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1208" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5381" endPos="doc_fr 1.3.3.0.5381" tokenID="doc_fr 34.2">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1209" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5383" endPos="doc_fr 1.3.3.0.5385" tokenID="doc_fr 34.3">qui</docSpan>
@@ -17541,7 +17541,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1215" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5415" endPos="doc_fr 1.3.3.0.5415" tokenID="doc_fr 34.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1216" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5417" endPos="doc_fr 1.3.3.0.5422" tokenID="doc_fr 34.10">disait</docSpan>
@@ -17589,7 +17589,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1227" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5476" endPos="doc_fr 1.3.3.0.5476" tokenID="doc_fr 34.21">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1228" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5478" endPos="doc_fr 1.3.3.0.5479" tokenID="doc_fr 34.22">et</docSpan>
@@ -17649,7 +17649,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1242" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5551" endPos="doc_fr 1.3.3.0.5551" tokenID="doc_fr 34.36">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="87" type="annotation">
@@ -17692,7 +17692,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1252" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5602" endPos="doc_fr 1.3.3.0.5602" tokenID="doc_fr 35.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1253" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5604" endPos="doc_fr 1.3.3.0.5607" tokenID="doc_fr 35.10">dont</docSpan>
@@ -17720,7 +17720,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1259" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5632" endPos="doc_fr 1.3.3.0.5632" tokenID="doc_fr 35.16">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1260" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5634" endPos="doc_fr 1.3.3.0.5635" tokenID="doc_fr 35.17">le</docSpan>
@@ -17736,7 +17736,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1263" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5648" endPos="doc_fr 1.3.3.0.5650" tokenID="doc_fr 35.20">qu’</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1264" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5651" endPos="doc_fr 1.3.3.0.5652" tokenID="doc_fr 35.21">on</docSpan>
@@ -17756,7 +17756,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1268" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5668" endPos="doc_fr 1.3.3.0.5668" tokenID="doc_fr 35.25">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1269" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5670" endPos="doc_fr 1.3.3.0.5672" tokenID="doc_fr 35.26">car</docSpan>
@@ -17828,7 +17828,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1286" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5756" endPos="doc_fr 1.3.3.0.5756" tokenID="doc_fr 35.43">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="88" type="annotation">
@@ -17843,7 +17843,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1289" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5765" endPos="doc_fr 1.3.3.0.5765" tokenID="doc_fr 36.2">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1290" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5767" endPos="doc_fr 1.3.3.0.5769" tokenID="doc_fr 36.3">qui</docSpan>
@@ -17911,7 +17911,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1306" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5837" endPos="doc_fr 1.3.3.0.5837" tokenID="doc_fr 36.19">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1307" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5839" endPos="doc_fr 1.3.3.0.5845" tokenID="doc_fr 36.20">demanda</docSpan>
@@ -17931,7 +17931,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1311" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5859" endPos="doc_fr 1.3.3.0.5859" tokenID="doc_fr 36.24">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1312" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5861" endPos="doc_fr 1.3.3.0.5866" tokenID="doc_fr 36.25">disant</docSpan>
@@ -18023,7 +18023,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1334" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.5968" endPos="doc_fr 1.3.3.0.5968" tokenID="doc_fr 36.47">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="89" type="annotation">
@@ -18090,7 +18090,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1350" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6040" endPos="doc_fr 1.3.3.0.6040" tokenID="doc_fr 37.15">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="90" type="annotation">
@@ -18117,7 +18117,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1356" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6057" endPos="doc_fr 1.3.3.0.6057" tokenID="doc_fr 38.5">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1357" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6059" endPos="doc_fr 1.3.3.0.6061" tokenID="doc_fr 38.6">dit</docSpan>
@@ -18133,7 +18133,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1360" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6070" endPos="doc_fr 1.3.3.0.6070" tokenID="doc_fr 38.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1361" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6072" endPos="doc_fr 1.3.3.0.6074" tokenID="doc_fr 38.10">que</docSpan>
@@ -18189,7 +18189,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1374" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6137" endPos="doc_fr 1.3.3.0.6137" tokenID="doc_fr 38.23">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1375" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6139" endPos="doc_fr 1.3.3.0.6141" tokenID="doc_fr 38.24">que</docSpan>
@@ -18205,7 +18205,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1378" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6155" endPos="doc_fr 1.3.3.0.6155" tokenID="doc_fr 38.27">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1379" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6157" endPos="doc_fr 1.3.3.0.6159" tokenID="doc_fr 38.28">par</docSpan>
@@ -18213,11 +18213,11 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1380" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6161" endPos="doc_fr 1.3.3.0.6167" tokenID="doc_fr 38.29">exemple</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1381" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6168" endPos="doc_fr 1.3.3.0.6168" tokenID="doc_fr 38.30">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1382" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6170" endPos="doc_fr 1.3.3.0.6173" tokenID="doc_fr 38.31">vous</docSpan>
@@ -18237,7 +18237,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1386" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6194" endPos="doc_fr 1.3.3.0.6194" tokenID="doc_fr 38.35">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1387" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6196" endPos="doc_fr 1.3.3.0.6197" tokenID="doc_fr 38.36">en</docSpan>
@@ -18249,7 +18249,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1389" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6207" endPos="doc_fr 1.3.3.0.6207" tokenID="doc_fr 38.38">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="91" type="annotation">
@@ -18272,7 +18272,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1394" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6224" endPos="doc_fr 1.3.3.0.6224" tokenID="doc_fr 39.4">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1395" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6226" endPos="doc_fr 1.3.3.0.6233" tokenID="doc_fr 39.5">répondit</docSpan>
@@ -18292,7 +18292,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1399" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6253" endPos="doc_fr 1.3.3.0.6253" tokenID="doc_fr 39.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1400" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6255" endPos="doc_fr 1.3.3.0.6256" tokenID="doc_fr 39.10">et</docSpan>
@@ -18300,7 +18300,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1401" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6257" endPos="doc_fr 1.3.3.0.6257" tokenID="doc_fr 39.11">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1402" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6259" endPos="doc_fr 1.3.3.0.6262" tokenID="doc_fr 39.12">pour</docSpan>
@@ -18320,7 +18320,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1406" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6279" endPos="doc_fr 1.3.3.0.6279" tokenID="doc_fr 39.16">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1407" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6281" endPos="doc_fr 1.3.3.0.6284" tokenID="doc_fr 39.17">vous</docSpan>
@@ -18403,7 +18403,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1426" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6364" endPos="doc_fr 1.3.3.0.6364" tokenID="doc_fr 40.11">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1427" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6366" endPos="doc_fr 1.3.3.0.6368" tokenID="doc_fr 40.12">qu’</docSpan>
@@ -18431,7 +18431,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1433" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6401" endPos="doc_fr 1.3.3.0.6401" tokenID="doc_fr 40.18">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1434" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6403" endPos="doc_fr 1.3.3.0.6405" tokenID="doc_fr 40.19">non</docSpan>
@@ -18459,7 +18459,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1440" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6431" endPos="doc_fr 1.3.3.0.6431" tokenID="doc_fr 40.25">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1441" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6433" endPos="doc_fr 1.3.3.0.6433" tokenID="doc_fr 40.26">à</docSpan>
@@ -18467,7 +18467,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1442" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6435" endPos="doc_fr 1.3.3.0.6439" tokenID="doc_fr 40.27">cause</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1443" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6441" endPos="doc_fr 1.3.3.0.6442" tokenID="doc_fr 40.28">de</docSpan>
@@ -18483,7 +18483,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1446" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6454" endPos="doc_fr 1.3.3.0.6454" tokenID="doc_fr 40.31">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1447" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6456" endPos="doc_fr 1.3.3.0.6458" tokenID="doc_fr 40.32">qui</docSpan>
@@ -18523,7 +18523,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1456" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6504" endPos="doc_fr 1.3.3.0.6504" tokenID="doc_fr 40.41">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="93" type="annotation">
@@ -18542,7 +18542,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1460" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6526" endPos="doc_fr 1.3.3.0.6526" tokenID="doc_fr 41.3">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1461" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6528" endPos="doc_fr 1.3.3.0.6529" tokenID="doc_fr 41.4">le</docSpan>
@@ -18554,7 +18554,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1463" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6535" endPos="doc_fr 1.3.3.0.6535" tokenID="doc_fr 41.6">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1464" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6537" endPos="doc_fr 1.3.3.0.6541" tokenID="doc_fr 41.7">ayant</docSpan>
@@ -18598,7 +18598,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1474" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6587" endPos="doc_fr 1.3.3.0.6587" tokenID="doc_fr 41.17">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1475" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6589" endPos="doc_fr 1.3.3.0.6597" tokenID="doc_fr 41.18">descendit</docSpan>
@@ -18638,7 +18638,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1484" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6632" endPos="doc_fr 1.3.3.0.6632" tokenID="doc_fr 41.27">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="94" type="annotation">
@@ -18669,7 +18669,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1491" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6656" endPos="doc_fr 1.3.3.0.6656" tokenID="doc_fr 42.6">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1492" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6658" endPos="doc_fr 1.3.3.0.6660" tokenID="doc_fr 42.7">dit</docSpan>
@@ -18685,7 +18685,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1495" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6669" endPos="doc_fr 1.3.3.0.6669" tokenID="doc_fr 42.10">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1496" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6671" endPos="doc_fr 1.3.3.0.6674" tokenID="doc_fr 42.11">mais</docSpan>
@@ -18713,7 +18713,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1502" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6699" endPos="doc_fr 1.3.3.0.6699" tokenID="doc_fr 42.17">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1503" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6701" endPos="doc_fr 1.3.3.0.6703" tokenID="doc_fr 42.18">que</docSpan>
@@ -18773,7 +18773,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1517" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6776" endPos="doc_fr 1.3.3.0.6776" tokenID="doc_fr 42.32">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1518" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6778" endPos="doc_fr 1.3.3.0.6780" tokenID="doc_fr 42.33">par</docSpan>
@@ -18781,7 +18781,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1519" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6782" endPos="doc_fr 1.3.3.0.6788" tokenID="doc_fr 42.34">exemple</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1520" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6790" endPos="doc_fr 1.3.3.0.6791" tokenID="doc_fr 42.35">de</docSpan>
@@ -18809,7 +18809,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1526" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6815" endPos="doc_fr 1.3.3.0.6815" tokenID="doc_fr 42.41">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1527" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6817" endPos="doc_fr 1.3.3.0.6818" tokenID="doc_fr 42.42">en</docSpan>
@@ -18825,7 +18825,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1530" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6831" endPos="doc_fr 1.3.3.0.6831" tokenID="doc_fr 42.45">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1531" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6833" endPos="doc_fr 1.3.3.0.6834" tokenID="doc_fr 42.46">je</docSpan>
@@ -18865,7 +18865,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1540" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6872" endPos="doc_fr 1.3.3.0.6875" tokenID="doc_fr 42.55">fait</docSpan>
-        <mark cat="POS" certainty="1">N</mark>
+        <mark cat="POS" certainty="1">NC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1541" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6877" endPos="doc_fr 1.3.3.0.6886" tokenID="doc_fr 42.56">impossible</docSpan>
@@ -18873,7 +18873,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1542" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6887" endPos="doc_fr 1.3.3.0.6887" tokenID="doc_fr 42.57">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="95" type="annotation">
@@ -18888,7 +18888,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1545" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6902" endPos="doc_fr 1.3.3.0.6902" tokenID="doc_fr 43.2">!</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1546" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6904" endPos="doc_fr 1.3.3.0.6909" tokenID="doc_fr 43.3">reprit</docSpan>
@@ -18904,7 +18904,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1549" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6918" endPos="doc_fr 1.3.3.0.6918" tokenID="doc_fr 43.6">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1550" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6920" endPos="doc_fr 1.3.3.0.6923" tokenID="doc_fr 43.7">vous</docSpan>
@@ -18920,7 +18920,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1553" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6936" endPos="doc_fr 1.3.3.0.6936" tokenID="doc_fr 43.10">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1554" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6938" endPos="doc_fr 1.3.3.0.6938" tokenID="doc_fr 43.11">»</docSpan>
@@ -18968,7 +18968,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1565" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6984" endPos="doc_fr 1.3.3.0.6984" tokenID="doc_fr 43.22">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1566" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.6986" endPos="doc_fr 1.3.3.0.6988" tokenID="doc_fr 43.23">qui</docSpan>
@@ -19004,7 +19004,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1574" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7021" endPos="doc_fr 1.3.3.0.7021" tokenID="doc_fr 43.31">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="96" type="annotation">
@@ -19047,7 +19047,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1584" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7060" endPos="doc_fr 1.3.3.0.7060" tokenID="doc_fr 44.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1585" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7062" endPos="doc_fr 1.3.3.0.7064" tokenID="doc_fr 44.10">qu’</docSpan>
@@ -19071,7 +19071,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1590" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7083" endPos="doc_fr 1.3.3.0.7084" tokenID="doc_fr 44.15">et</docSpan>
-        <mark cat="POS" certainty="1">C</mark>
+        <mark cat="POS" certainty="1">CC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1591" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7086" endPos="doc_fr 1.3.3.0.7087" tokenID="doc_fr 44.16">la</docSpan>
@@ -19083,7 +19083,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1593" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7095" endPos="doc_fr 1.3.3.0.7095" tokenID="doc_fr 44.18">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="97" type="annotation">
@@ -19102,7 +19102,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1597" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7114" endPos="doc_fr 1.3.3.0.7114" tokenID="doc_fr 45.3">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1598" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7116" endPos="doc_fr 1.3.3.0.7118" tokenID="doc_fr 45.4">qui</docSpan>
@@ -19146,7 +19146,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1608" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7160" endPos="doc_fr 1.3.3.0.7160" tokenID="doc_fr 45.14">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1609" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7162" endPos="doc_fr 1.3.3.0.7167" tokenID="doc_fr 45.15">voulut</docSpan>
@@ -19162,7 +19162,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1612" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7182" endPos="doc_fr 1.3.3.0.7182" tokenID="doc_fr 45.18">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="98" type="annotation">
@@ -19177,7 +19177,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1615" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7191" endPos="doc_fr 1.3.3.0.7191" tokenID="doc_fr 46.2">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1616" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7193" endPos="doc_fr 1.3.3.0.7195" tokenID="doc_fr 46.3">qui</docSpan>
@@ -19205,7 +19205,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1622" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7226" endPos="doc_fr 1.3.3.0.7226" tokenID="doc_fr 46.9">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1623" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7228" endPos="doc_fr 1.3.3.0.7230" tokenID="doc_fr 46.10">qui</docSpan>
@@ -19229,7 +19229,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1628" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7257" endPos="doc_fr 1.3.3.0.7257" tokenID="doc_fr 46.15">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1629" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7259" endPos="doc_fr 1.3.3.0.7264" tokenID="doc_fr 46.16">courut</docSpan>
@@ -19257,7 +19257,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1635" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7290" endPos="doc_fr 1.3.3.0.7290" tokenID="doc_fr 46.22">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1636" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7292" endPos="doc_fr 1.3.3.0.7292" tokenID="doc_fr 46.23">«</docSpan>
@@ -19321,7 +19321,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1651" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7376" endPos="doc_fr 1.3.3.0.7376" tokenID="doc_fr 46.38">!</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="99" type="annotation">
@@ -19336,7 +19336,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1654" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7387" endPos="doc_fr 1.3.3.0.7387" tokenID="doc_fr 47.2">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1655" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7389" endPos="doc_fr 1.3.3.0.7396" tokenID="doc_fr 47.3">monsieur</docSpan>
@@ -19352,7 +19352,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1658" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7408" endPos="doc_fr 1.3.3.0.7408" tokenID="doc_fr 47.6">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1659" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7410" endPos="doc_fr 1.3.3.0.7411" tokenID="doc_fr 47.7">s’</docSpan>
@@ -19372,7 +19372,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1663" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7424" endPos="doc_fr 1.3.3.0.7424" tokenID="doc_fr 47.11">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1664" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7426" endPos="doc_fr 1.3.3.0.7427" tokenID="doc_fr 47.12">ce</docSpan>
@@ -19400,7 +19400,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1670" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7455" endPos="doc_fr 1.3.3.0.7455" tokenID="doc_fr 47.18">!</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="100" type="annotation">
@@ -19451,11 +19451,11 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1682" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7504" endPos="doc_fr 1.3.3.0.7505" tokenID="doc_fr 48.11">et</docSpan>
-        <mark cat="POS" certainty="1">C</mark>
+        <mark cat="POS" certainty="1">CC</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1683" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7507" endPos="doc_fr 1.3.3.0.7509" tokenID="doc_fr 48.12">que</docSpan>
-        <mark cat="POS" certainty="1">C</mark>
+        <mark cat="POS" certainty="1">CS</mark>>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1684" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7511" endPos="doc_fr 1.3.3.0.7514" tokenID="doc_fr 48.13">tous</docSpan>
@@ -19483,7 +19483,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1690" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7548" endPos="doc_fr 1.3.3.0.7548" tokenID="doc_fr 48.19">;</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1691" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7550" endPos="doc_fr 1.3.3.0.7555" tokenID="doc_fr 48.20">voyons</docSpan>
@@ -19499,7 +19499,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1694" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7567" endPos="doc_fr 1.3.3.0.7567" tokenID="doc_fr 48.23">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1695" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7569" endPos="doc_fr 1.3.3.0.7570" tokenID="doc_fr 48.24">s’</docSpan>
@@ -19550,7 +19550,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1706" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7609" endPos="doc_fr 1.3.3.0.7609" tokenID="doc_fr 49.5">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1707" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7611" endPos="doc_fr 1.3.3.0.7613" tokenID="doc_fr 49.6">qui</docSpan>
@@ -19570,7 +19570,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1711" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7633" endPos="doc_fr 1.3.3.0.7633" tokenID="doc_fr 49.10">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1712" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7635" endPos="doc_fr 1.3.3.0.7643" tokenID="doc_fr 49.11">entrèrent</docSpan>
@@ -19594,7 +19594,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1717" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7666" endPos="doc_fr 1.3.3.0.7666" tokenID="doc_fr 49.16">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1718" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7668" endPos="doc_fr 1.3.3.0.7669" tokenID="doc_fr 49.17">où</docSpan>
@@ -19658,7 +19658,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1733" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7755" endPos="doc_fr 1.3.3.0.7755" tokenID="doc_fr 49.32">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1734" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7757" endPos="doc_fr 1.3.3.0.7759" tokenID="doc_fr 49.33">qui</docSpan>
@@ -19698,7 +19698,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1743" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7799" endPos="doc_fr 1.3.3.0.7799" tokenID="doc_fr 49.42">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1744" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7801" endPos="doc_fr 1.3.3.0.7804" tokenID="doc_fr 49.43">mais</docSpan>
@@ -19730,7 +19730,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1751" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7834" endPos="doc_fr 1.3.3.0.7834" tokenID="doc_fr 49.50">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1752" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7836" endPos="doc_fr 1.3.3.0.7842" tokenID="doc_fr 49.51">sachant</docSpan>
@@ -19758,7 +19758,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1758" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7862" endPos="doc_fr 1.3.3.0.7862" tokenID="doc_fr 49.57">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="102" type="annotation">
@@ -19773,7 +19773,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1761" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7870" endPos="doc_fr 1.3.3.0.7870" tokenID="doc_fr 50.2">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1762" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7872" endPos="doc_fr 1.3.3.0.7877" tokenID="doc_fr 50.3">charmé</docSpan>
@@ -19817,7 +19817,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1772" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7932" endPos="doc_fr 1.3.3.0.7932" tokenID="doc_fr 50.13">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1773" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7934" endPos="doc_fr 1.3.3.0.7935" tokenID="doc_fr 50.14">et</docSpan>
@@ -19853,7 +19853,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1781" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7976" endPos="doc_fr 1.3.3.0.7976" tokenID="doc_fr 50.22">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1782" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7978" endPos="doc_fr 1.3.3.0.7980" tokenID="doc_fr 50.23">lui</docSpan>
@@ -19865,7 +19865,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1784" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7985" endPos="doc_fr 1.3.3.0.7985" tokenID="doc_fr 50.25">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1785" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.7987" endPos="doc_fr 1.3.3.0.7991" tokenID="doc_fr 50.26">après</docSpan>
@@ -19897,7 +19897,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1792" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8020" endPos="doc_fr 1.3.3.0.8020" tokenID="doc_fr 50.33">:</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1793" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8022" endPos="doc_fr 1.3.3.0.8022" tokenID="doc_fr 50.34">«</docSpan>
@@ -19929,7 +19929,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1800" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8047" endPos="doc_fr 1.3.3.0.8047" tokenID="doc_fr 50.41">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1801" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8049" endPos="doc_fr 1.3.3.0.8056" tokenID="doc_fr 50.42">monsieur</docSpan>
@@ -19945,7 +19945,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1804" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8068" endPos="doc_fr 1.3.3.0.8068" tokenID="doc_fr 50.45">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1805" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8070" endPos="doc_fr 1.3.3.0.8072" tokenID="doc_fr 50.46">que</docSpan>
@@ -19992,7 +19992,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1815" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8112" endPos="doc_fr 1.3.3.0.8112" tokenID="doc_fr 51.2">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1816" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8114" endPos="doc_fr 1.3.3.0.8120" tokenID="doc_fr 51.3">faisant</docSpan>
@@ -20012,7 +20012,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1820" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8143" endPos="doc_fr 1.3.3.0.8143" tokenID="doc_fr 51.7">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1821" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8145" endPos="doc_fr 1.3.3.0.8151" tokenID="doc_fr 51.8">accepta</docSpan>
@@ -20048,7 +20048,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1829" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8185" endPos="doc_fr 1.3.3.0.8185" tokenID="doc_fr 51.16">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1830" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8187" endPos="doc_fr 1.3.3.0.8188" tokenID="doc_fr 51.17">et</docSpan>
@@ -20056,7 +20056,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1831" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8189" endPos="doc_fr 1.3.3.0.8189" tokenID="doc_fr 51.18">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1832" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8191" endPos="doc_fr 1.3.3.0.8193" tokenID="doc_fr 51.19">dès</docSpan>
@@ -20076,7 +20076,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1836" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8207" endPos="doc_fr 1.3.3.0.8207" tokenID="doc_fr 51.23">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1837" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8209" endPos="doc_fr 1.3.3.0.8210" tokenID="doc_fr 51.24">il</docSpan>
@@ -20096,7 +20096,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1841" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8231" endPos="doc_fr 1.3.3.0.8231" tokenID="doc_fr 51.28">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="104" type="annotation">
@@ -20123,7 +20123,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1847" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8262" endPos="doc_fr 1.3.3.0.8262" tokenID="doc_fr 52.5">,</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1848" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8264" endPos="doc_fr 1.3.3.0.8265" tokenID="doc_fr 52.6">et</docSpan>
@@ -20171,7 +20171,7 @@
       </annotation>
       <annotation certainty="1" id="doc_fr annot_token_1859" type="gram">
         <docSpan beginPos="doc_fr 1.3.3.0.8319" endPos="doc_fr 1.3.3.0.8319" tokenID="doc_fr 52.17">.</docSpan>
-        <mark cat="POS" certainty="1">PUNC</mark>
+        <mark cat="POS" certainty="1">PONCT</mark>
       </annotation>
     </linkGroup>
     <linkGroup id="105" type="annotation">
