@@ -70,3 +70,26 @@ eng freq of POS:
 'RBS': 9,
 'WP$': 4,
 'LS': 1}
+
+Auberge:
+
+Counter({'NN': 710, 'IN': 617, 'DT': 565, 'VBD': 481, ',': 480, 'JJ': 362, 'PRP': 325, 'RB': 294, 'CC': 276, 
+'NNS': 228, '.': 203, 'NNP': 163, 'TO': 156, 'VB': 152, 'PRP$': 145, 'VBN': 143, 'VBG': 127, 'RP': 81, 'CD': 60, 
+'WDT': 56, 'MD': 28, 'VBZ': 27, 'WRB': 24, ':': 23, "''": 23, 'VBP': 22, '``': 22, 'WP': 20, 'PDT': 11, 'RBR': 10,
+ 'POS': 9, 'EX': 7, 'UH': 4, 'WP$': 3, 'JJR': 2, 'NNPS': 2, 'JJS': 1})
+ 
+  Counter({'NC': 861, 'DET': 770, 'PUNC': 716, 'P': 702, 'V': 487, 'ADJ': 383, 'ADV': 278, 'CLS': 213, 'CC': 210, 
+  'NPP': 158, 'VINF': 147, 
+'VPP': 145, 'N': 130, 'CLR': 101, 'PROREL': 70, 'CS': 63, 'CLO': 61, 'PRO': 59, 'VPR': 57, 'ET': 32, 'C': 19, 
+'VS': 3, 'ADVWH': 3, 'I': 
+1})
+Chat:
+Counter({'DT': 204, 'NN': 201, 'IN': 191, ',': 167, 'PRP': 154, 'VBD': 148, 'RB': 86, 'NNP': 85, 'VB': 79, 'JJ': 71, 
+'TO': 69, 'CC': 69, 'PRP$': 66, '.': 64, 'NNS': 60, 'VBN': 45, "''": 37, 'VBG': 33, 'VBP': 28, 'WP': 27, 'MD': 22, 
+'``': 20, ':': 16, 'RP': 14, 'WDT': 13, 
+'VBZ': 12, 'NNPS': 9, 'CD': 8, 'WRB': 8, 'PDT': 7, 'POS': 7, 'JJS': 6, 'JJR': 2, 'EX': 2, 'UH': 2, 'RBR': 2,
+ 'RBS': 1, 'LS': 1}) 
+ 
+ Counter({'NC': 274, 'DET': 235, 'PUNC': 214, 'V': 199, 'P': 194, 'ADJ': 89, 'NPP': 86, 
+ 'CLS': 83, 'ADV': 78, 'VINF': 73, 'CC': 58, 'CLO': 53, 'VPP': 44, 'CS': 41, 'PROREL': 35, 'PRO': 21, 'N': 20, 
+ 'VPR': 18, 'ET': 18, 'CLR': 16, 'C': 4, 'VS': 3, 'PREF': 1, 'PROWH': 1, 'ADVWH': 1, 'VIMP': 1})
