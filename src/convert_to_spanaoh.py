@@ -26,6 +26,4 @@ if __name__ == "__main__":
         soup, separate_by_sentence=True, mark_leaves=False)
 
     alignment_filepath = 'chat_spans_tests.txt'
-    # alignment_filepath = input(
-    #     "path to file where you want to save the w2w leaf alignments: ")
     convert_to_spanaoh(dict_all_spans_by_sentence, alignment_filepath)

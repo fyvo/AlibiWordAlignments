@@ -46,6 +46,5 @@ if __name__=="__main__":
     sor = sort_links("dat/ChatBotte_MasterCat.ali.xml")
     # print(sor,len(sor))
     all_trees = build_trees_of_all_spans(sor)
-    for i in range(2):
-        print(len(all_trees[i]))    # .show()
-        all_trees[i].to_graphviz()
+    print([(len(tree),tree.depth()) for tree in all_trees])    # .show()
+        # tree.to_graphviz()
