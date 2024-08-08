@@ -46,15 +46,16 @@ def check_tree_depth(example):
 
 
 def get_distribution_of_span_lengths(df_leaf_spans):
-    print(df_leaf_spans['nb_words_fr_span'].value_counts())
-    print(df_leaf_spans['nb_words_eng_span'].value_counts())
+    # print(df_leaf_spans['nb_words_fr_span'].value_counts())
+    # print(df_leaf_spans['nb_words_eng_span'].value_counts())
+    print(df_leaf_spans['nb_words_span'].value_counts())
     plt.subplot(1, 2, 1)
     df_leaf_spans['nb_words_fr_span'].value_counts().plot(
         kind='bar', title='fr nb leaves with x words')
     plt.subplot(1, 2, 2)
     df_leaf_spans['nb_words_eng_span'].value_counts().plot(
         kind='bar', title='eng leaves with x words')
-    plt.show()
+    # plt.show()
 
 
 def count_w2w_alignments(path_ali_w2w):
@@ -102,6 +103,7 @@ def analyse_alignments(path_ali_xml):
     #     f"Mean number of characters in all fr spans: {df_all_spans['nb_chars_fr_span'].mean():.3f}\nMean number of characters in all eng spans: {df_all_spans['nb_chars_eng_span'].mean():.3f}")
     # print(
     #     f"Mean number of characters in fr leaf spans: {df_leaf_spans['nb_chars_fr_span'].mean(): .3f}\nMean number of characters in eng leaf spans: {df_leaf_spans['nb_chars_eng_span'].mean(): .3f}")
+    print(df_leaf_spans['nb_words_span'])
     return len(df_all_spans), len(df_leaf_spans), df_all_spans['nb_words_fr_span'].mean(), df_all_spans['nb_words_eng_span'].mean(), df_leaf_spans['nb_words_fr_span'].mean(), df_leaf_spans['nb_words_eng_span'].mean()
 
 

@@ -35,9 +35,9 @@ def build_trees_of_all_spans(sorted_linkGroups):
             spans = link.find_all('docSpan')
             range_fr, range_eng = get_span_ranges_fr_eng(link['id'])
             if link['parentID'] == "ROOT":
-                sentence_tree.create_node((range_fr,range_eng),link['id'])  # (spans[0].string, spans[1].string) for the content
+                sentence_tree.create_node((spans[0].string, spans[1].string,(range_fr,range_eng)),link['id'])  # (range_fr,range_eng) for the content
             else:
-                sentence_tree.create_node((range_fr,range_eng),link['id'],parent=link['parentID'])            
+                sentence_tree.create_node((spans[0].string, spans[1].string,(range_fr,range_eng)),link['id'],parent=link['parentID'])            
         all_trees.append(sentence_tree)
     return all_trees
 
@@ -47,4 +47,4 @@ if __name__=="__main__":
     # print(sor,len(sor))
     all_trees = build_trees_of_all_spans(sor)
     print([(len(tree),tree.depth()) for tree in all_trees])    # .show()
-        # tree.to_graphviz()
+    all_trees[0].to_graphviz()

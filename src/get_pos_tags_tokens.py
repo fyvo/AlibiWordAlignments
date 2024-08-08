@@ -15,17 +15,48 @@ def get_pos_tag_tokens(soup,path_eng_file,path_fr_file):
             if annotations_fr:
                 fr_file.write(f"{i}\t")
                 for annotation in annotations_fr:
+                    sent_token_id = annotation.find_all('docSpan')[0].tokenID
+                    # TODO make all of them into one big list, sort by sentence, then write from list to file
                     pos = annotation.find_all('mark',cat='POS')[0].string
                     fr_file.write(f'{pos} ')
                 fr_file.write("\n") 
             if annotations_eng:
                 eng_file.write(f"{i}\t")
                 for annotation in annotations_eng:
+                    sent_token_id = annotation.find_all('docSpan')[0].tokenID
                     pos = annotation.find_all('mark',cat='POS')[0].string
                     eng_file.write(f'{pos} ')
                 eng_file.write("\n") 
             annotations_fr=[]
             annotations_eng=[]
+
+
+
+def get_pos_tag_tokens(soup,path_eng_file,path_fr_file):
+    # creates two files specified in path_eng_file and path_fr_file which contain the information about the pos of every token
+    # the second linkList contains linkGroups with all the annotations (linkList level='token')
+    linkLists = soup.find_all('linkList')
+    linkList = linkLists[1]
+    # print(linkGroups, len(linkGroups))
+    big_fr_list = []
+    big_eng_list = []
+    with open(path_eng_file, 'a+') as eng_file, open(path_fr_file, 'a+') as fr_file:
+        annotations_fr = linkList.find_all('annotation', id=re.compile("doc_fr annot_token_"))
+        annotations_eng = linkList.find_all('annotation', id=re.compile("doc_en annot_token_"))
+        if annotations_fr:
+            for annotation in annotations_fr:
+                sent_token_id = annotation.find_all('docSpan')[0]['tokenID']
+                # TODO make all of them into one big list, sort by sentence, then write from list to file
+                pos = annotation.find_all('mark',cat='POS')[0].string
+                big_fr_list.append((sent_token_id,pos))
+        if annotations_eng:
+            for annotation in annotations_eng:
+                sent_token_id = annotation.find_all('docSpan')[0]['tokenID']
+                pos = annotation.find_all('mark',cat='POS')[0].string
+                big_eng_list.append((sent_token_id,pos))
+        # annotations_fr=[]
+        # annotations_eng=[]
+    print(len(big_eng_list), len(big_fr_list), big_fr_list[:10], big_eng_list[:10])
 
 if __name__ == "__main__":
     # alignment_xml_path = input("path to the xml alignments file: ")
