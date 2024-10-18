@@ -25,18 +25,22 @@ This collection of datasets contain the following texts both in French and Engli
 ## DATA PREPROCESSING ##
 
 The raw texts were extracted from Wikisource. They were tokenized and segmented in
-sentence using Europarl tools - see http://www.statmt.org/europarl/
+sentences using statmt tools - see http://www.statmt.org/europarl/
 
-POS tagging and parsing were obtain using Stanford POS Tagger and Parser.
+POS tagging and parsing were obtained using Stanford POS Tagger and Parser.
 see https://nlp.stanford.edu/software/tagger.shtml
 and https://nlp.stanford.edu/software/lex-parser.html for more information.
 
 ## FILE NAMING CONVENTIONS ##
 
-There are 3 files for each bi-text :
+### Divisive alignments 
+The dat subdirectory contains divisive alignments. There are 3 files for each bi-text :
 * <FrenchName>-Normalized.html:  Normalized text extracted from Wikisource
 * <EnglishName>-Normalized.html: Normalized text extracted from Wikisource
 * <EnglishName>_<FrenchName>.xml.ali: Alignments in "TransRead" Format. This format is documented (in French) in the companion file AlignmentFormat.pdf. It crucially enables (a) to express bilingual correspondances between HTML files; (b) to express correspondances at various levels of annotations (sentences, phrases, words, etc)
+
+### Flat alignments
+A flat word alignment is also derived for each input text, using simple rules. The corresponding files are in the [ali](./ali) subdirectory.
 
 ## LICENCE ##
 
