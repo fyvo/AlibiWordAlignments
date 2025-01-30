@@ -1,0 +1,3 @@
+,nb_sentences,nb_fr_words,nb_eng_words,ratio_nb_fr/nb_eng,nb_sure_ali,nb_potential_ali
+Hansards,447,7761,7020,1.1055555555555556,4038,13400
+Europarl,100,1227,1072,1.1445895522388059,1009,437

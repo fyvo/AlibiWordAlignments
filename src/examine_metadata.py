@@ -8,7 +8,7 @@ from tabulate import tabulate
 
 
 def get_nb_sents_nb_words_ratio(sents_file_fr, sents_file_eng):
-    # returns number of lines in the sentences file-1 (the last line is empty) and nb of words (separated by spaces)
+    # returns number of lines in the sentences file and nb of words (separated by spaces)
     nb_words_fr = 0
     with open(sents_file_fr, 'r') as file:
         for i, line in enumerate(file):
@@ -20,12 +20,12 @@ def get_nb_sents_nb_words_ratio(sents_file_fr, sents_file_eng):
             sent_record = line.split('\t')
             nb_words_eng += len(sent_record[1].split())
     print(
-        f"number of sentences in {sents_file_fr}: {i}\nnumber of words: {nb_words_fr}")
+        f"number of sentences in {sents_file_fr}: {i+1}\nnumber of words: {nb_words_fr}")
     print(
-        f"number of sentences in {sents_file_eng}: {i}\nnumber of words: {nb_words_eng}")
+        f"number of sentences in {sents_file_eng}: {i+1}\nnumber of words: {nb_words_eng}")
     print(
         f"Ratio of nb of French/nb of English words: {nb_words_fr/nb_words_eng:.4f}")
-    return i, nb_words_fr, nb_words_eng, nb_words_fr/nb_words_eng
+    return i+1, nb_words_fr, nb_words_eng, nb_words_fr/nb_words_eng
 
 
 def extract_nb_words_in_span(example):
@@ -38,11 +38,12 @@ def extract_nb_words_in_span(example):
 
 
 def check_tree_depth(example):
-    # regex matching (one or more) digits preceded by a dot, followed by an underscore (second number in the id)
-    pattern = r"\.\d+_"
-    depth_str = re.findall(pattern, example)  # ['.8_']
-    depth_str = depth_str[0][1:-1]
-    return int(depth_str)
+    # regex matching the sent id and the depth of a span (depth: digits preceded by a dot, followed by an underscore (second number in the id))
+    pattern = r"^(\d+)\.(\d+)_"
+    match_obj = re.match(pattern, example)  # ['1.8_']
+    sent_id, depth_str = match_obj.group(1), match_obj.group(2) # group(0) is the full match, 1 and 2 are before and after the dot respectively
+    # depth_str = depth_str[0][1:-1]  # extracting only the digit
+    return (int(sent_id), int(depth_str))
 
 
 def get_distribution_of_span_lengths(df_leaf_spans):
@@ -89,9 +90,11 @@ def analyse_alignments(path_ali_xml):
     df_all_spans[['nb_words_fr_span', 'nb_words_eng_span']] = pd.DataFrame(
         df_all_spans.nb_words_span.tolist(), index=df_all_spans.index)
     df_leaf_spans = df_all_spans.loc[(df_all_spans['is_leaf'] == True)]
-    df_leaf_spans['tree_depth'] = df_leaf_spans['link_id'].map(
-        check_tree_depth)
-    get_distribution_of_span_lengths(df_leaf_spans)
+    df_leaf_spans[['sent_id','tree_depth']] = df_leaf_spans.apply(lambda example: check_tree_depth(example['link_id']), axis=1, result_type='expand')
+    # taking the max depth per sentence as sent tree depth
+    df_depth_per_sent = df_leaf_spans.groupby(['sent_id'])['tree_depth'].max()
+    print(df_depth_per_sent.agg(['min', 'max', 'mean']))
+    # get_distribution_of_span_lengths(df_leaf_spans)
     # print(df_leaf_spans[df_leaf_spans['nb_words_fr_span'] > 10]) # print ids of longest leaves!
     # print(
     #     f'Max depth of an alignment tree: {df_leaf_spans["tree_depth"].max()}, in sent id={df_leaf_spans.loc[df_leaf_spans["tree_depth"].idxmax()].link_id.split(".")[0]}')
@@ -103,7 +106,7 @@ def analyse_alignments(path_ali_xml):
     #     f"Mean number of characters in all fr spans: {df_all_spans['nb_chars_fr_span'].mean():.3f}\nMean number of characters in all eng spans: {df_all_spans['nb_chars_eng_span'].mean():.3f}")
     # print(
     #     f"Mean number of characters in fr leaf spans: {df_leaf_spans['nb_chars_fr_span'].mean(): .3f}\nMean number of characters in eng leaf spans: {df_leaf_spans['nb_chars_eng_span'].mean(): .3f}")
-    print(df_leaf_spans['nb_words_span'])
+    # print(df_leaf_spans['nb_words_span'])
     return len(df_all_spans), len(df_leaf_spans), df_all_spans['nb_words_fr_span'].mean(), df_all_spans['nb_words_eng_span'].mean(), df_leaf_spans['nb_words_fr_span'].mean(), df_leaf_spans['nb_words_eng_span'].mean()
 
 
@@ -122,6 +125,11 @@ if __name__ == "__main__":
                       "ali/ChatBotte_MasterCat/ChatBotte_sents.txt", "ali/LaDerniereClasse_TheLastLesson/LaDerniereClasse_sents.txt", "ali/LaVision_TheVision/LaVision_sents.txt"]
     eng_sents_paths = ["ali/LAuberge_TheInn/TheInn_sents.txt", "ali/LaBarbeBleue_BlueBeard/BlueBeard_sents.txt", "ali/ChatBotte_MasterCat/MasterCat_sents.txt",
                        "ali/LaDerniereClasse_TheLastLesson/TheLastLesson_sents.txt", "ali/LaVision_TheVision/TheVision_sents.txt"]
+    # text_ids = ['Hansards', 'Europarl']
+    # ali_xml_paths = ['','']
+    # ali_w2w_paths = ['hansard_ali/test_pharaoh.wa.nonullalign','europarl_ali/en-fr_pharaoh.wa']
+    # fr_sents_paths = ['hansard_ali/test_pharaoh.f','europarl_ali/1-100_pharaoh.fr']
+    # eng_sents_paths = ['hansard_ali/test_pharaoh.e','europarl_ali/1-100_pharaoh.en']
     list_stats = []  # every list here will be a row in the df
     for ali_xml_path, ali_w2w_path, fr_sents_path, eng_sents_path in zip(ali_xml_paths, ali_w2w_paths, fr_sents_paths, eng_sents_paths):
         text_stats = []
@@ -135,6 +143,6 @@ if __name__ == "__main__":
     stats_df = pd.DataFrame(list_stats, columns=[
                             'nb_sentences', 'nb_fr_words', 'nb_eng_words', 'ratio_nb_fr/nb_eng', 'nb_sure_ali', 'nb_potential_ali', 'nb_all_spans', 'nb_leaf_spans', 'mean_nb_fr_words_all_spans', 'mean_nb_eng_words_all_spans', 'mean_nb_fr_words_leaves', 'mean_nb_eng_words_leaves'])
     stats_df.index = text_ids
-    print(tabulate(stats_df, tablefmt="pretty"))
-    print(stats_df.to_string())
-    stats_df.to_csv('stats_df.csv')
+    # print(tabulate(stats_df, tablefmt="pretty"))
+    # print(stats_df.to_string())
+    stats_df.to_csv('stats_depth.csv')
