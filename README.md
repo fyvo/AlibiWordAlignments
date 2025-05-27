@@ -7,6 +7,11 @@ subsentential level according to the "divisive" alignment methodology documented
 and sub-sentential alignments of bi-texts. Proceedings of 10th Language 
 Resources and Evaluation Conference (LREC 2016). Portorož (Slovenia)](https://aclanthology.org/L16-1099/)
 
+These alignments have been cleaned, automatically converted into word-level alignements, and used to evaluate several alignment
+procedures in:
+
+[Joanna Radoła \quad François Yvon (2025). Alignements divisifs de textes parallèles: données, algorithme et évaluation. Actes de la conférence CORIA-TALN 2025. Marseille, France.]()
+
 The alignment guidelines are documented in the companion file AlignmentGuidelines.pdf in the doc directory.
 
 This resource has been produced in the course of the ALIBI Project (2016-2017)
