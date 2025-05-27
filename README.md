@@ -10,7 +10,7 @@ Resources and Evaluation Conference (LREC 2016). Portorož (Slovenia)](https://a
 These alignments have been cleaned, automatically converted into word-level alignements, and used to evaluate several alignment
 procedures in:
 
-[Joanna Radoła \quad François Yvon (2025). Alignements divisifs de textes parallèles: données, algorithme et évaluation. Actes de la conférence CORIA-TALN 2025. Marseille, France.]()
+[Joanna Radoła and François Yvon (2025). Alignements divisifs de textes parallèles: données, algorithme et évaluation. Actes de la conférence CORIA-TALN 2025. Marseille, France.]()
 
 The alignment guidelines are documented in the companion file AlignmentGuidelines.pdf in the doc directory.
 
